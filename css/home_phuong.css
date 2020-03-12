@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #ffffff;
+    font: 400 14px/1.2 Roboto;
+}
+img{max-width: 100%}
+.section{
+    float:left;
+    width: 100%;
+}
+.h_container_phuong{
+    float:left;
+    width: 100%;
+    padding-right: 15px;
+    background-color: #f7f8fa;
+}
+.header_item_phuong{
+    float:left;
+}
+#sites_phuong{
+    width: 25%;
+}
+.sites-phuong li{
+    float:left;
+    width: 33.33%;
+    list-style: none;
+}
+.sites-phuong li a{
+    float:left;
+    width: 100%;
+    text-decoration: none;
+    color: #8c8d8e;
+    font-size: 16px;
+    text-align: center;
+    padding: 22px 0;
+}
+.current_site_phuong{
+    background-color: #ffffff;
+}
+.sites-phuong .current_site_phuong > a{
+    color: #000000;
+}
+#logo_phuong{
+    width: 38%;
+    padding-left: 265px;
+}
+#logo_phuong a{
+    float:left;
+    width: 100%;
+    text-decoration: none;
+    color: #000000;
+    font-size: 19px;
+    padding: 7px 0;
+}
+#coupon_phuong{
+    width: 17%;
+    font-size: 13px;
+    color: #d10000;
+    padding: 15px 0;
+}
+#user_phuong{
+    width: 20%;
+    padding: 20px 15px 10px 30px;
+}
+.user_phuong{
+    float:left;
+    width: 100%;
+}
+#user_phuong .user_phuong ul{
+    float:left;
+    width: 100%;
+}
+#user_phuong li{
+    list-style: none;
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+#user_phuong li a{
+    text-decoration: none;
+    color: #8c8d8e;
+}
+#user_phuong a >i{
+    font-size: 18px;
+}
+.h_menu_phuong{
+    background-color: #ffffff;
+}
+.menu_phuong{
+    float: left;
+}
+.menu_phuong a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 14px;
+}
+#menu_list_phuong{
+    float:left;
+    width: 74%;
+    height: 46px;
+    padding-left: 15px;
+}
+#menu_slide_phuong{
+    float:left;
+    width: 100%;
+    position: relative;
+    height: 46px;
+}
+#menu_list_phuong ul{
+    float: left;
+    width: 100%;
+    position: absolute;
+    top:0;
+    left:0;
+    height: 46px;
+    overflow: hidden;
+}
+#menu_list_phuong ul li{
+    float:left;
+    text-align: center;
+    padding: 15px 13px;
+    list-style: none;
+}
+.menu_scroll_phuong{
+    width: 5%;
+}
+.menu_scroll_phuong a{
+    float:left;
+    width: 50%;
+    font-size: 10px;
+    text-align: center;
+    padding-top: 18px;
+}
+#menu_search_phuong{
+    width: 20%;
+    padding: 5px 0;
+}
+#menu_search_phuong div{
+    float: left;
+}
+#search_bar_phuong{
+    width: 85%;
+}
+#search_bar_phuong input{
+    width: 100%;
+    height: 37px;
+    color: #8c8d8e;
+}
+#btn_search_phuong{
+    width: 15%;
+    height: 37px;
+    text-align: center;
+    padding: 10px 0;
+    background-color: #000000;
+}
+#btn_search_phuong i{
+    font-size: 17px;
+    color: #ffffff;
+}
+
+
+
