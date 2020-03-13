@@ -16,6 +16,7 @@ body{
     width: 100%;
     padding-left: 40px;
     padding-right: 40px;
+    float: left;
 }
 .top-content_hoa{
     width: 100%;
@@ -81,13 +82,14 @@ body{
 .bottom-content_hoa{
     width: 100%;
     margin: 10px;
+    float: left;
 }
 .content_hoa{
     width: 100%;
     float:left;
     margin: 20px;
 }
-h1_hoa{
+h1{
     font-size: 40px;
     margin-bottom: 15px;
 }
@@ -99,7 +101,7 @@ h1_hoa{
 img{
     max-width: 100%;
 }
-span_hoa{
+span{
     color: red;
     font: 600 18px/1.25 Roboto Slab;
     padding-top: 15px;
@@ -113,6 +115,7 @@ u{
     width: 100%;
     height: 7px;
     margin-top: 10px;
+    float: left;
 }
 .content1_hoa div p {
     background-color: yellow;
