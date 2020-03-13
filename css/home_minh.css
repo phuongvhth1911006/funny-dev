@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #ffffff;
+}
+.section{
+    float: left;
+    width: 100%;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+.content{
+    float:left;
+}
+.title_content{
+    text-align: center;
+}
+.small_content{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+.list_content{
+    padding-top: 30px;
+    padding-left: 50px;
+}
+.list_content2{
+    margin-top: 50px;
+}
+.upper{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+}
+.upper span{
+    padding-right:35px;
+}
+.lower{
+    display: flex;
+    justify-content: space-between;
+}
+.lower span{
+    padding-right:60px;
+}
+.special{
+    padding-top: 8px;
+}
+.list_content3{
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.discount{
+    display: flex;
+    justify-content: space-between;
+    max-width: 80%;
+}
+.dis1{
+    position: relative;
+    bottom: 451px;
+    left: 1px;
+    opacity: 0;
+}
+.dis2{
+    position: relative;
+    bottom: 450px;
+    left: 3px;
+    opacity: 0;
+}
+.dis3{
+    position: relative;
+    bottom: 451px;
+    left: 6px;
+    opacity: 0;
+}
+.dis4{
+    position: relative;
+    bottom: 450px;
+    left: 10px;
+    opacity: 0;
+ }
+.dis1:hover{
+    opacity: 1;
+}
+.dis2:hover{
+    opacity: 1;
+}
+.dis3:hover{
+    opacity: 1;
+}
+.dis4:hover{
+    opacity: 1;
+}
+.title_content2{
+    text-align: center;
+}
+.list_content4{
+    padding-top: 20px;
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+}
+.first span{
+    padding-right: 120px;
+}
+.add1{
+    position: relative;
+    bottom: 586px;
+    left: 43px;
+}
+.add2{
+    position: relative;
+    bottom: 550px;
+    left: 70px;
+}
+.add3{
+    position: relative;
+    bottom: 580px;
+    left: 94px;
+}
+.add4{
+    position: relative;
+    bottom: 549px;
+    left: 120px;
+}
+.content1{
+    position: relative;
+    bottom: 465px;
+    margin-bottom: -450px;
+}
+.title_content3{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.line{
+    display: flex;
+    justify-content: space-between;
+}
+.line span{
+    padding: 0 20px 0 0;
+}
