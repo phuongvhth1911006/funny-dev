@@ -6,142 +6,146 @@
 body{
     background-color: #ffffff;
 }
-.section{
+.section_minh{
     float: left;
     width: 100%;
 }
-.container{
-    width: 1200px;
+.container_minh{
+    width: 100%;
     margin: auto;
+    padding: 0 40px;
 }
-.content{
+.content_minh{
     float:left;
 }
-.title_content{
+.title_content_minh{
     text-align: center;
 }
-.small_content{
+.small_content_minh{
     display: flex;
     justify-content: space-between;
     margin-top: 15px;
+    padding-right: 55px;
 }
-.list_content{
+.list_content_minh{
     padding-top: 30px;
     padding-left: 50px;
 }
-.list_content2{
+.list_content2_minh{
     margin-top: 50px;
 }
-.upper{
+.upper_minh{
     display: flex;
     justify-content: space-between;
     padding-top: 5px;
 }
-.upper span{
+.upper_minh span{
     padding-right:35px;
 }
-.lower{
+.lower_minh{
     display: flex;
     justify-content: space-between;
 }
-.lower span{
+.lower_minh span{
     padding-right:60px;
 }
-.special{
+.special_minh{
     padding-top: 8px;
 }
-.list_content3{
+.list_content3_minh{
     padding-top: 100px;
     display: flex;
     justify-content: space-between;
+    padding-right: 50px;
+    padding-left: 30px;
 }
-.discount{
+.discount_minh{
     display: flex;
     justify-content: space-between;
     max-width: 80%;
 }
-.dis1{
+.dis1_minh{
     position: relative;
     bottom: 451px;
     left: 1px;
     opacity: 0;
 }
-.dis2{
+.dis2_minh{
     position: relative;
     bottom: 450px;
     left: 3px;
     opacity: 0;
 }
-.dis3{
+.dis3_minh{
     position: relative;
     bottom: 451px;
     left: 6px;
     opacity: 0;
 }
-.dis4{
+.dis4_minh{
     position: relative;
     bottom: 450px;
     left: 10px;
     opacity: 0;
  }
-.dis1:hover{
+.dis1_minh:hover{
     opacity: 1;
 }
-.dis2:hover{
+.dis2_minh:hover{
     opacity: 1;
 }
-.dis3:hover{
+.dis3_minh:hover{
     opacity: 1;
 }
-.dis4:hover{
+.dis4_minh:hover{
     opacity: 1;
 }
-.title_content2{
+.title_content2_minh{
     text-align: center;
 }
-.list_content4{
+.list_content4_minh{
     padding-top: 20px;
 }
-.first{
+.first_minh{
     display: flex;
     justify-content: space-between;
 }
-.first span{
-    padding-right: 120px;
+.first_minh span{
+    padding-right: 125px;
 }
-.add1{
+.add1_minh{
     position: relative;
     bottom: 586px;
     left: 43px;
 }
-.add2{
+.add2_minh{
     position: relative;
     bottom: 550px;
     left: 70px;
 }
-.add3{
+.add3_minh{
     position: relative;
     bottom: 580px;
     left: 94px;
 }
-.add4{
+.add4_minh{
     position: relative;
     bottom: 549px;
     left: 120px;
 }
-.content1{
+.content1_minh{
     position: relative;
     bottom: 465px;
     margin-bottom: -450px;
 }
-.title_content3{
+.title_content3_minh{
     text-align: center;
     padding-bottom: 20px;
 }
-.line{
+.line_minh{
     display: flex;
     justify-content: space-between;
 }
-.line span{
+.line_minh span{
     padding: 0 20px 0 0;
 }
