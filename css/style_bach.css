@@ -12,29 +12,27 @@ body{
     margin: 15px 0;
 }
 .b_container{
-    width: 1400px;
+    width: 100%;
     margin: 0 auto;
+    padding: 0 30px;
 }
 .b_container .b_banner a img{
     width: 100%;
-}
-.b_section h1{
-    text-align: center;
-    font-size: 33px;
-    font-weight: 300;
+
 }
 .b_headtitle{
     margin-bottom: 10px;
 }
 .b_headtitle h1{
     display: inline;
-    margin-left: 500px;
+    font-size: 33px;
+    font-weight: 300;
     padding: 0 60px;
     background-image: url("../imgs/bach/text-background.png");
     background-size: cover;
 }
 .b_sort .b_category{
-    width: 175px;
+    width: 12.5%;
     float: left;
     padding-right: 8px;
 }
@@ -141,7 +139,7 @@ body{
 .b_smallpic .b_title{
     color: black;
     margin-top: 30px;
-    font-size: 32px;
+    font-size: 30px;
     font-weight: 600;
     text-align: center;
 }
