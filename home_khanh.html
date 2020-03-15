@@ -1,95 +1,223 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Form Validation 123</title>
-	<link rel = "stylesheet" href = "fuck.css">
-	<style type="text/css">
-		body {
-			background-color: red;
-		}
-		#form {
-			border: 1px solid grey;
-			padding: 20px;
-			max-width: 400px;
-			margin: auto;
-			background-color: white;
-		}
-		#form h2, p {
-			text-align: center;
-		}
-		#form input {
-			margin-top: 15px;
-			display: block;
-		}
-		.text_field {
-			width: 100%;
-			height: 27px;
-		}
-		#submit_btn {
-			padding: 10px;
-			background-color:green;
-			color: white;
-		}
-		#submit_btn:hover{
-			cursor: pointer;
-		}
-	</style>
-
-<script type="text/javascript">
-
-	function Submit(){
-
-	var x = document.getElementById('First_Name').value;
-	var p = document.getElementById('Password').value;
-	var rp = document.getElementById('Confirm_Password').value;	
-
-	if(x == "") {
-		alert("You have to type all the field bellow !!!");
-		return false;
-	}
-
-	if (p != rp) {
-		alert("Confirm_Password is not correct! Please retype.");
-	}
-
-	else {
-		alert("Register Sucessfully !!!");
-		return true;
-	}
-
-
-	}
-
-
-
-</script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<title>Trang sản phẩm | SHEIN.COM.VN</title>
+	<link REL="SHORTCUT ICON" HREF="imgs/khanh/title_icon.png">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel = "stylesheet" href = "css/khanh.css">
 
 </head>
 
 
 
 <body>
-	<form action="server.html" method="post" id="form">
-		<h2 id = "fuck">REGISTER (some text)</h2>
-		<hr/>
-		<p style="color: grey">Create your account. It's free and only takes a minute.</p>
+	<div id="content_k">
 
-		<input required class="text_field" type="text" id="First_Name" placeholder="First Name">
+		<!-- link breadscrum -->
+		<div class="breadscrum_k">
+			<a href="#">Trang chủ</a> 
+			<span> / </span>
+			<a href="#">Áo thun</a>
+			<span> / </span>
+			<a href="#"> Áo thun Lá thư trắng Casual</a>
+		</div>
 
-		<input required class="text_field" type="text" id="Last_Name" placeholder="Last Name">
 
-		<input required class="text_field" type="email" id="Email" placeholder="Email">
+<!-- phần chi tiết sp ============================================================================================ -->
 
-		<input required class="text_field" type="text" id="Password" placeholder="Password">
+		<div id="prd_detail_k">
 
-		<input required class="text_field" type="text" id="Confirm_Password" placeholder="Confirm Password">
+		<!-- phần ảnh sản phẩm (bên trái) ------------------------------------------------------------------- --> 	
 
-		<input required type="checkbox" style="display: inline;" id="acception">I accept the Terms of Use.
+			<div id="prd_img_k">
+			
+				<div class="container_k">
 
-		<input id="submit_btn" type="submit" value="Register Now" name="Submit" onsubmit="return Submit()">
+				  <!-- ảnh thumbnail -->
+				  <div class="row_thum_k">
+				    <div class="thum_img_k">
+				      <img class="demo_k curso_k" src="imgs\khanh\sp-img-1.jpg" style="width:100%" onclick="currentSlide(1)" alt="Full bộ">
+				    </div>
+				    <div class="thum_img_k">
+				      <img class="demo_k curso_k" src="imgs\khanh\sp-img-2.jpg" style="width:100%" onclick="currentSlide(2)" alt="Áo thun">
+				    </div>
+				    <div class="thum_img_k">
+				      <img class="demo_k curso_k" src="imgs\khanh\sp-img-3.jpg" style="width:100%" onclick="currentSlide(3)" alt="Họa tiết">
+				    </div>
+				    <div class="thum_img_k">
+				      <img class="demo_k curso_k" src="imgs\khanh\sp-img-4.jpg" style="width:100%" onclick="currentSlide(4)" alt="Tay áo">
+				    </div>
+				  </div>
 
-	</form>
+				  <!-- slide ảnh lớn -->
+				  <div id="slide_section_k">
+					  <div class="mySlides_k">
+					    <div class="numbertext_k">1 / 4</div>
+					    <img src="imgs\khanh\sp-img-1.jpg" style="width:100%">
+					  </div>
 
+					  <div class="mySlides_k">
+					    <div class="numbertext_k">2 / 4</div>
+					    <img src="imgs\khanh\sp-img-2.jpg" style="width:100%">
+					  </div>
+
+					  <div class="mySlides_k">
+					    <div class="numbertext_k">3 / 4</div>
+					    <img src="imgs\khanh\sp-img-3.jpg" style="width:100%">
+					  </div>
+					    
+					  <div class="mySlides_k">
+					    <div class="numbertext_k">4 / 4</div>
+					    <img src="imgs\khanh\sp-img-4.jpg" style="width:100%">
+					  </div>
+
+					  <!-- caption ảnh  -->
+					  <div class="caption-container_k">
+					    <p id="caption_k"></p>
+					  </div>
+
+				  </div>
+
+				</div>
+
+			</div>
+
+
+
+			<!-- phần thông tin sản phẩm (bên phải) -------------------------------------------------------------- -->
+
+			<div id="prd_selection_k">
+				<p class="tensp_k">Áo thun Lá thư trắng Casual</p>
+				<p class="masp_k">SKU: swtee01190604002</p>
+				<!-- 4 ngôi sao phần đánh giá -->
+				<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><span style="color: silver; font-size: 11px; margin-left: 10px">5657 Nhận xét</span>
+				<h2 class="giasp_k">210.000₫</h2>
+				<br/>
+				<hr class="hr_k" />
+				<h3>Màu sắc</h3>
+				  <span>
+				  <input type="radio" id="age1" name="age" value="30">
+				  <label for="age1">Trắng</label>
+				  </span>
+				  <span>
+				  <input type="radio" id="age2" name="age" value="60">
+				  <label for="age2">Đen</label>
+				  </span>
+				<br/>
+				<h3>Kích thước</h3>
+				<a href="#" class="size_selection_k"><span>S</span></a>
+				<a href="#" class="size_selection_k"><span>M</span></a>
+				<a href="#" class="size_selection_k"><span>L</span></a>
+				<a href="#" class="size_selection_k"><span>XL</span></a>
+
+				<br><br>
+				<a href="#" style="font-size: 12px;"><i class="fa fa-edit"></i> Hướng dẫn lựa chọn kích thước</a>
+				<br><br>
+
+				<a id="buy_k"  href="#" onclick="show_buy_k()">THÊM VÀO GIỎ HÀNG</a> <span><a href="#" class="favorite_k" onclick="show_favorite_k()"><i class="fa fa-heart"></i></a></span>
+
+				<section class="dieukhoan_k">	
+					<p class="dk_1_k"><i class="fa fa-truck"></i>  Miễn phí vận chuyển </p>
+					<p class="dk_2_k" style="margin-bottom: 5px">Giao hàng miễn phí với mức giá cố định cho các đơn hàng trên 499.000₫ 10-12 Business Days</p>
+
+					<p class="dk_1_k"><i class="fa fa-shield"></i>  Chính sách hoàn trả</p>
+					<p class="dk_2_k">Tìm hiểu thêm</p>
+				</section>
+
+			</div>
+
+		</div>
+
+<!-- phần ảnh gallery =====================================================================-->
+
+
+		<div id="prd_gallery_k">
+			<h2>Phong cách Gallery (2) <span><hr></span></h2>
+			<br>
+			<span><img src="imgs/khanh/gallery/gallery_1.jpg"></span>
+			<span><img src="imgs/khanh/gallery/gallery_2.jpg"></span>
+			<br><br><br>
+			<h2>Thường được mua cùng <span><hr></span></h2>
+			<br>
+			<div class="relate_k">
+				<div class="relate_prd_k">
+					<img class="relate_img_k" src="imgs/khanh/relate/relate_prd_1.jpg">
+					<a href="#" class="relate_name_k">Áo thun cổ chéo</a><br>
+					<b>210.000 đ</b>
+				</div>
+				<div class="relate_prd_k">
+					<img class="relate_img_k" src="imgs/khanh/relate/relate_prd_2.jpg">	
+					<a href="#" class="relate_name_k">Áo thun đẳng cấp</a><br>
+					<b>130.000 đ</b>		
+				</div>
+				<div class="relate_prd_k">
+					<img class="relate_img_k" src="imgs/khanh/relate/relate_prd_3.jpg">		
+					<a href="#" class="relate_name_k">Áo thun chất chơi</a><br>
+					<b>402.000 đ</b>		
+				</div>
+				<div class="relate_prd_k">
+					<img class="relate_img_k" src="imgs/khanh/relate/relate_prd_4.jpg">	
+					<a href="#" class="relate_name_k">Áo thun playboy</a><br>
+					<b>112.000 đ</b>			
+				</div>
+			</div>	
+
+
+
+		<div class="review_prd_k">
+			
+		</div>
+
+		</div>
+
+
+
+
+
+	</div>
+
+
+				<img src="imgs/khanh/chon_size.jpg" id="chon_size">
+
+
+<script>
+	var slideIndex = 1;
+	showSlides(slideIndex);
+
+	function plusSlides(n) {
+	  showSlides(slideIndex += n);
+	}
+
+	function currentSlide(n) {
+	  showSlides(slideIndex = n);
+	}
+
+	function show_buy_k(){
+	  alert("Đã thêm sản phẩm vào giỏ hàng. Xin cảm ơn!");
+	}
+	function show_favorite_k(){
+	  alert("Đã thêm vào danh sách yêu thích!");
+	}
+	function showSlides(n) {
+	  var i;
+	  var slides = document.getElementsByClassName("mySlides_k");
+	  var dots = document.getElementsByClassName("demo_k");
+	  var captionText = document.getElementById("caption_k");
+	  if (n > slides.length) {slideIndex = 1}
+	  if (n < 1) {slideIndex = slides.length}
+	  for (i = 0; i < slides.length; i++) {
+	      slides[i].style.display = "none";
+	  }
+	  for (i = 0; i < dots.length; i++) {
+	      dots[i].className = dots[i].className.replace(" active_k", "");
+	  }
+	  slides[slideIndex-1].style.display = "block";
+	  dots[slideIndex-1].className += " active_k";
+	  captionText.innerHTML = dots[slideIndex-1].alt;
+	}
+</script>
+    
 </body>
 </html>

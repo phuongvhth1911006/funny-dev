@@ -1,0 +1,255 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: white;
+	padding: 20px 13%;
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+	line-height: 1.8;
+	background-color: #f2f2f2;
+}
+
+a{
+	text-decoration: none;
+}
+
+h3{
+	font-size: 16px;
+	margin: 15px 0px 5px 0px;
+}
+
+#content_k{
+	width: 100%;
+	height: 100%;
+}
+
+.breadscrum_k{
+	margin: 15px 0px;
+	font-size: 12px;	
+}
+
+.breadscrum_k a{
+	text-decoration: none;
+	color: grey;
+}
+
+
+
+/*<!-- phần ảnh sản phẩm (bên trái) ------------------------------------------------------------------- --> */
+
+#prd_detail_k{
+	width: 100%;
+	height: 100%;
+}
+
+#prd_gallery_k{
+	width: 100%;
+	height: 100px;
+	float: left;
+	margin-top: 70px;
+}
+
+#prd_img_k{
+	width: 60%;
+	height: 100%;
+	float: left;
+}
+
+.mySlides_k img {
+  vertical-align: middle;
+}
+
+.container_k {
+  position: relative;
+}
+
+#slide_section_k{
+	display: inline;
+	float: left;
+	width: 83%
+}
+
+/* Hide the images by default */
+.mySlides_k {
+  display: none;
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.curso_k {
+  cursor: pointer;
+}
+
+/* Number text (1/3 etc) */
+.numbertext_k {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* Container for image text */
+.caption-container_k {
+  text-align: center;
+  background-color: #222;
+  padding: 2px 16px;
+  color: white;
+}
+
+/*phần ảnh thumbnail*/
+.row_thum_k:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.row_thum_k{
+	float: left;
+	width: 13%;
+	padding-right: 2%;
+}
+
+.thum_img_k {
+  width: 100%;
+  margin: 0px 0px 5px 4px;
+  box-sizing: content-box;
+}
+
+/*lớp phủ ảnh thumbnail*/
+.demo_k {
+  opacity: 0.6;
+}
+
+.active_k,
+.demo_k:hover {
+  opacity: 1;
+  border: 2px solid black;
+}
+
+
+
+
+
+
+
+
+/*<!-- phần thông tin sản phẩm (bên phải) -------------------------------------------------------------- -->*/
+
+#prd_selection_k{
+	width: 40%;
+	height: 500px;
+	float: left;	
+	padding-left: 20px;
+}
+
+
+
+.size_selection_k{
+	border: 1px solid silver; 
+	border-radius: 16px; 
+	padding: 2px 14px; 
+	text-align: center;
+	text-decoration: none;
+	color: grey;
+	margin-right: 10px;
+	width: 20px;
+}
+
+.tensp_k{
+	font-size: 20px;
+}
+.masp_k{
+	color: silver;
+	font-size: 12px;
+}
+.fa-star{
+	color: orange;
+}
+
+.fa-heart{
+	color:black;
+	font-size: 22px;
+}
+
+.favorite_k{
+	border: 1px solid silver; 
+	border-radius: 100%; 
+	padding: 13px; 
+	text-align: center;	
+	margin-left: 10px;
+}
+
+#chon_size{
+	display: none;
+	position: relative;
+	top: 0;
+	margin: auto;
+}
+
+#buy_k{
+	background-color: black;
+	color: white;
+	border-radius: 0;
+	padding: 16px 55px;
+	font-weight: 700;
+}
+
+.dieukhoan_k{
+	margin-top:29px;
+	background-color: #ebebeb;
+	padding: 11px;
+	text-align: left;
+}
+.dk_1_k{
+	font-size: 14px;
+	color: black;
+	font-weight: 700;
+}
+.dk_2_k{
+	font-size: 11px;
+	color: grey;
+}
+.hr_k{
+  border-top: 1px dotted silver;
+}
+
+
+/*phần sản phẩm liên quan ---------------------------------*/
+
+.relate_k{
+	width: 100%;
+}
+
+.relate_prd_k{
+	width: 24%;
+	height: 100%;
+	background-color: white;
+	margin-left: 1%;
+	float: left;
+}
+
+.relate_prd_k:hover{
+	box-shadow: 2px 2px 4px grey;
+	cursor: pointer;
+}
+
+.relate_img_k{
+	width: 100%;
+	height: auto;
+}
+
+.relate_img_k{
+	color: silver;
+}
+
+/*phần đánh giá sp -------------------------------------------*/
+
+.review_prd_k{
+	float: left;
+	width: 100%;
+	height: 300px;
+	margin-top: 40px;
+	background-color: silver;
+}
