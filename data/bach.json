@@ -1,0 +1,38 @@
+[
+  {
+    "head": [
+      {"image": "imgs/bach/bach_01.jpg"},
+      {"image": "imgs/bach/bach_02.gif"},
+      {"image": "imgs/bach/bach_03.jpg"}
+    ],
+    "category": [
+      {"image": "imgs/bach/bach_04.jpg","type": "Áo thun"},
+      {"image": "imgs/bach/bach_05.jpg","type": "Áo sơ mi"},
+      {"image": "imgs/bach/bach_06.jpg","type": "Quần short"},
+      {"image": "imgs/bach/bach_07.jpg","type": "quần dài"},
+      {"image": "imgs/bach/bach_08.jpg","type": "áo thun có cổ"},
+      {"image": "imgs/bach/bach_09.jpg","type": "đồ bơi"},
+      {"image": "imgs/bach/bach_10.jpg","type": "bộ quần áo"},
+      {"image": "imgs/bach/bach_11.jpg","type": "áo nỉ"}
+    ],
+    "banner": {
+      "image": "imgs/bach/bach_12.jpg"
+    },
+    "smallbanner1_left":{"image": "imgs/bach/bach_13.png","type": "Chọn giày theo cỡ chân"},
+    "smallbanner1_right": {"image": "imgs/bach/bach_14.jpg","type": "Phù hợp mùa xuân"},
+    "edit": {
+        "big": {"image": "imgs/bach/bach_15.jpg","title": "Bộ sưu tập hấp dẫn","type": "Phổ biến vì một lý do"},
+        "small": {
+          "left": {"image": "imgs/bach/bach_16.jpg","title": "Mua theo phong cách","type": "Thể dục nhẹ nhàng"},
+          "right": {"image": "imgs/bach/bach_17.jpg","title": "Kỳ nghỉ","type": "Trang phục ngoài công sở"}
+        }
+    },
+    "smallbanner2_left":{"image": "imgs/bach/bach_18.png"},
+    "smallbanner2_right": {"image": "imgs/bach/bach_19.png"},
+    "style": [
+      {"image": "imgs/bach/bach_20.jpg","type": "@sylvaincoll"},
+      {"image": "imgs/bach/bach_21.jpg","type": "@viralstreetstyle"},
+      {"image": "imgs/bach/bach_22.jpg","type": "@ivan_carvelli"}
+    ]
+  }
+]

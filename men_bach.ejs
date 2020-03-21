@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mua sắm quần áo nam</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/7e4061163e.js" crossorigin="anonymous"></script>
+    <link href="/css/style_bach.css" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="/boottrap/css/bootstrap.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="css/home_phuong.css"/>
+</head>
+<body>
+<section class="b_section">
+    <div class="b_container">
+        <% data.forEach(function (item) {
+        for (var i=0; i< item.head.length;i++){ %>
+            <div class="b_section b_banner">
+                <a href="#">
+                    <img src="<%= item.head[i].image %> "/>
+                </a>
+            </div>
+        <% }}) %>
+
+        <div class="b_section b_sort">
+            <div class="b_headtitle text-center">
+                <h1>Mua theo thể loại</h1>
+            </div>
+
+            <% data.forEach(function (item) {
+            for (var i=0; i< item.category.length;i++){ %>
+                <div class="b_category">
+                    <a href="#">
+                        <img src="<%= item.category[i].image %> "/>
+                        <p> <%= item.category[i].type %></p>
+                    </a>
+                </div>
+            <% }}) %>
+        </div>
+            <% data.forEach(function (item) { %>
+                <div class="b_section b_banner">
+                    <a href="#">
+                        <img src="<%= item.banner.image %> "/>
+                    </a>
+                </div>
+            <% }) %>
+
+        <div class="b_section b_accessories">
+            <% data.forEach(function (item) { %>
+                <a href="#">
+                    <div class="b_left b_smallbanner">
+                        <h1><%= item.smallbanner1_left.type %></h1>
+                        <img src="<%= item.smallbanner1_left.image %>"/>
+                    </div>
+                </a>
+            <% }) %>
+
+            <% data.forEach(function (item) { %>
+                <a href="#">
+                    <div class="b_right b_smallbanner">
+                        <h1><%= item.smallbanner1_right.type %></h1>
+                        <img src="<%= item.smallbanner1_right.image %>"/>
+                    </div>
+                </a>
+            <%})%>
+        </div>
+
+        <div class="b_section b_edit">
+            <div class="b_headtitle text-center">
+                <h1>Mua theo chỉnh sửa</h1>
+            </div>
+            <% data.forEach(function (item) { %>
+                <div class="b_left b_smallbanner">
+                    <a href="#">
+                        <div class="b_bigpic">
+                            <p class="b_rotate"><%= item.edit.big.title%></p>
+                            <img src="<%= item.edit.big.image%>"/>
+                            <p ><%= item.edit.big.type%>></p>
+                            <p class="b_button">Trở lại cửa hàng</p>
+                        </div>
+                    </a>
+                </div>
+            <%})%>
+
+            <div class="b_right b_smallbanner">
+                <% data.forEach(function (item) { %>
+                    <a href="#">
+                        <div class="b_smallpic b_left">
+                            <p class="b_title"><%= item.edit.small.left.title%></p>
+                            <p><%= item.edit.small.left.type%></p>
+                            <img src="<%= item.edit.small.left.image%>"/>
+                            <p class="b_button2">Mua ngay</p>
+                        </div>
+                    </a>
+                <%})%>
+
+                <% data.forEach(function (item) { %>
+                    <a href="#">
+                         <div class="b_smallpic b_right">
+                             <p class="b_title"><%= item.edit.small.right.title%></p>
+                             <p><%= item.edit.small.right.type%></p>
+                             <img src="<%= item.edit.small.right.image%>"/>
+                             <p class="b_button2">Mua ngay</p>
+                         </div>
+                        </a>
+                 <%})%>
+            </div>
+        </div>
+            <div class="b_section b_season">
+                <% data.forEach(function (item) { %>
+                    <a href="#">
+                        <div class="b_left b_smallbanner">
+                            <img src="<%= item.smallbanner2_left.image %>"/>
+                        </div>
+                    </a>
+                <% }) %>
+
+                <% data.forEach(function (item) { %>
+                    <a href="#">
+                        <div class="b_right b_smallbanner">
+                            <img src="<%= item.smallbanner2_right.image %>"/>
+                        </div>
+                    </a>
+                <%})%>
+            </div>
+
+        <div class="b_section b_style">
+            <div class="b_headtitle text-center">
+                <h1>Trưng bày phong cách</h1>
+            </div>
+
+            <% data.forEach(function (item) {
+            for (var i=0; i< item.style.length;i++){ %>
+                <div class="b_block">
+                    <img src="<%= item.style[i].image %> "/>
+                    <p> <%= item.style[i].type %></p>
+                </div>
+            <% }}) %>
+        </div>
+    </div>
+</section>
+</body>
