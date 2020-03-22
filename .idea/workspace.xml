@@ -2,140 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43756e34-c97b-4ab7-95aa-e2a260d4111d" name="Default Changelist" comment="Update project 1.2">
-      <change afterPath="$PROJECT_DIR$/imgs/minh_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_37.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_38.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_39.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_42.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_43.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_44.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_45.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_46.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_49.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_51.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_52.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_53.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_54.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_dis_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_dis_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_dis_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_dis_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_title_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_title_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_title_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/minh_title_4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_minh.html" beforeDir="false" afterPath="$PROJECT_DIR$/home_minh.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/10.1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/10.2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/11.1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/11.2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/11.3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/11.4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/12.1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/12.10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/12.11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/12.12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/12.13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/12.14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/12.15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/12.16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/12.17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/12.18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/12.19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/12.2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/12.20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/12.3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/12.4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/12.5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/12.6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/12.7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/12.8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/12.9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/1575637386b9172c132bb5f23ed291531c7dc56db4_thumbnail_405x552.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/1583225629e205d77f805012c8b2469115b36288f7.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/15835608337c604cfb3e9da714b5e3c1e50edb2a2a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/1583560865a56959ca670b020662e0049d49210650.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/1583560949d2258eb8e0fc8083cca5b4e1f8fd58ac.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/1583560969ad75482e5dbfc0aaddef61eaa49ad051.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/2.1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/2.2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/2.3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/2.4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/2.5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/3.1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/4.1.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/4.2.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/4.3.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/4.4.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/5.1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/5.2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/5.3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/5.4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/6.1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/6.2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/6.3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/6.4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/7.1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/7.2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/8.1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/8.2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/9.1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/9.2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/titel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/titel2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/titel3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/titel4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NU_HOA.html" beforeDir="false" afterPath="$PROJECT_DIR$/NU_HOA.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/hoa_33.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +62,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/t1911e_nodejs/package.json" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs/hoa" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -199,6 +103,8 @@
       <workItem from="1584111398060" duration="7060000" />
       <workItem from="1584170262245" duration="10656000" />
       <workItem from="1584841300212" duration="1218000" />
+      <workItem from="1584864592760" duration="1065000" />
+      <workItem from="1584866813887" duration="781000" />
     </task>
     <task id="LOCAL-00001" summary="Create project &amp; Phuong update 1.0">
       <created>1583999943240</created>
@@ -235,14 +141,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update project 1.2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="697" y="169" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584868783008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="697" y="169" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584868783008" />
     <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1584842190083">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584842190083" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1584809669018">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="521" y="135" key="FileChooserDialogImpl" timestamp="1584865042511">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584809669018" />
+    <state x="521" y="135" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584865042511" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1584841233409">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

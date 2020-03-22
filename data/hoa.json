@@ -1,0 +1,182 @@
+[
+  {
+    "productId": 1,
+    "image":"imgs/sp1_hoa.jpg"
+  },
+  {
+    "productId": 2,
+    "image":"imgs/sp2_hoa.jpg"
+  },
+  {
+    "productId": 3,
+    "image":"imgs/sp3_hoa.jpg"
+  },
+  {
+    "productId": 4,
+    "image":"imgs/sp4_hoa.jpg"
+  },
+  {
+    "productId": 5,
+    "image":"imgs/sp5_hoa.jpg"
+  },
+  {
+    "productId": 6,
+    "image":"imgs/sp6_hoa.jpg",
+    "price":"68.300 đ",
+    "sold": "9 sold"
+  },
+  {
+    "productId": 7,
+    "image":"imgs/sp7_hoa.jpg",
+    "price":"106.600 đ",
+    "sold": "9 sold"
+  },
+  {
+    "productId": 8,
+    "image":"imgs/sp8_hoa.jpg",
+    "price":"107.700 đ",
+    "sold": "9 sold"
+  },
+  {
+    "productId": 9,
+    "image":"imgs/sp9_hoa.jpg",
+    "price":"115.800 đ ",
+    "sold": "9 sold"
+  },
+  {
+    "productId": 10,
+    "image":"imgs/sp10_hoa.jpg"
+  },
+  {
+    "productId": 11,
+    "image":"imgs/sp11_hoa.jpg"
+  },
+  {
+    "productId": 12,
+    "image":"imgs/sp12_hoa.jpg",
+    "note": "sắc sảo",
+    "description":"Mang nó đến sắc nét"
+  },
+  {
+    "productId": 13,
+    "image":"imgs/sp13_hoa.jpg",
+    "note": "sành điệu",
+    "description":"Giữ nó sang trọng"
+  },
+  {
+    "productId": 14,
+    "image":"imgs/sp14_hoa.jpg",
+    "note": "xu hướng",
+    "description":"Thư giãn tối đa"
+  },
+  {
+    "productId": 15,
+    "image":"imgs/sp15_hoa.jpg",
+    "note": "thư giãn",
+    "description":"Đi trước xu hướng"
+  },
+  {
+    "productId": 16,
+    "image":"imgs/sp16_hoa.jpg",
+    "description":"Đầm Rib-Knit Màu Trơn Màu Xanh Lá"
+  },
+  {
+    "productId": 17,
+    "image":"imgs/sp17_hoa.jpg",
+    "description":"Đầm Dây Kéo Họa Tiết Hoa Màu Be"
+  },
+  {
+    "productId": 18,
+    "image":"imgs/sp18_hoa.jpg",
+    "description":"Đầm Dây Kéo Họa Tiết Hoa Đỏ"
+  },
+  {
+    "productId": 19,
+    "image":"imgs/sp19_hoa.jpg",
+    "description":"Đầm Trơn giải trí"
+  },
+  {
+    "productId": 20,
+    "image":"imgs/sp20_hoa.jpg"
+  },
+  {
+    "productId": 21,
+    "image":"imgs/sp21_hoa.jpg",
+    "description": "Áo thun bất đối xứng phối màu",
+    "price":"255.000đ"
+  },
+  {
+    "productId": 22,
+    "image":"imgs/sp22_hoa.jpg",
+    "description": "Áo nữ viền lá sen màu trơn trắng",
+    "price":"355.500đ"
+  },
+  {
+    "productId": 23,
+    "image":"imgs/sp23_hoa.jpg",
+    "description": "Bộ thời trang Túi Lá thư Nhiều màu",
+    "price":"295.000đ"
+  },
+  {
+    "productId": 24,
+    "image":"imgs/sp24_hoa.jpg",
+    "description":"Quần Plus Size Belted",
+    "price":"485.000đ"
+  },
+  {
+    "productId": 25,
+    "image":"imgs/sp25_hoa.jpg",
+    "description":"Girls Jumpsuits Nút màu trơn Khaki",
+    "price":"255.090đ"
+  },
+  {
+    "productId": 26,
+    "image":"imgs/sp26_hoa.jpg",
+    "description":"Tops Nam Lá thư màu đen Giải trí",
+    "price":"375.000đ"
+  },
+  {
+    "productId": 27,
+    "image":"imgs/sp27_hoa.jpg",
+    "description":"Girls Dresses Nút Sọc Hải quân Phong cách",
+    "price":"420.000đ"
+  },
+  {
+    "productId": 28,
+    "image":"imgs/sp28_hoa.jpg",
+    "description":"Jumpsuits Belted Hoa Màu xanh lam",
+    "price":"340.000đ"
+  },
+  {
+    "productId": 29,
+    "image": "imgs/sp29_hoa.jpg",
+    "description": "bodysuits Vắt Hoa Màu vàng Sexy",
+    "price": "450.000đ"
+  },
+  {
+    "productId": 30,
+    "image": "imgs/sp30_hoa.jpg",
+    "description": "Áo sơ mi Khối Màu Nhiều màu Giải trí",
+    "price": "215.000đ"
+  },
+  {
+    "productId": 31,
+    "image":"imgs/sp31_hoa.jpg"
+  },
+  {
+    "productId": 32,
+    "image":"imgs/sp32_hoa.jpg"
+  },
+  {
+    "productId": 33,
+    "image":"imgs/sp33_hoa.jpg"
+  },
+  {
+    "productId": 34,
+    "image":"imgs/sp34_hoa.jpg"
+  },
+  {
+    "productId": 35,
+    "image":"imgs/sp35_hoa.jpg"
+  }
+]
