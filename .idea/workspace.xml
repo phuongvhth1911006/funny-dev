@@ -1,50 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43756e34-c97b-4ab7-95aa-e2a260d4111d" name="Default Changelist" comment="Update project 1.2">
+    <list default="true" id="43756e34-c97b-4ab7-95aa-e2a260d4111d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NU_HOA.html" beforeDir="false" afterPath="$PROJECT_DIR$/NU_HOA.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_27.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_28.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_30.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoa_33.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,9 +30,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs/hoa" />
+    <property name="last_opened_file_path" value="D:/btt1911e" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -73,6 +44,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\funny-dev\imgs\hoa" />
       <recent name="E:\funny-dev\imgs" />
     </key>
   </component>
@@ -104,7 +76,7 @@
       <workItem from="1584170262245" duration="10656000" />
       <workItem from="1584841300212" duration="1218000" />
       <workItem from="1584864592760" duration="1065000" />
-      <workItem from="1584866813887" duration="781000" />
+      <workItem from="1584866813887" duration="2403000" />
     </task>
     <task id="LOCAL-00001" summary="Create project &amp; Phuong update 1.0">
       <created>1583999943240</created>
@@ -127,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584176582956</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="bai cua hoa">
+      <created>1584868902692</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584868902692</updated>
+    </task>
+    <task id="LOCAL-00005" summary="bai cua hoa">
+      <created>1584870130377</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584870130377</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,30 +124,33 @@
     <MESSAGE value="Create project &amp; Phuong update 1.0" />
     <MESSAGE value="Update project 1.1" />
     <MESSAGE value="Update project 1.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update project 1.2" />
+    <MESSAGE value="bai cua hoa" />
+    <option name="LAST_COMMIT_MESSAGE" value="bai cua hoa" />
   </component>
   <component name="WindowStateProjectService">
     <state x="697" y="169" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584868783008">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="697" y="169" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584868783008" />
-    <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1584842190083">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="344" y="0" key="CommitChangelistDialog2" timestamp="1584870129931">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584842190083" />
-    <state x="521" y="135" key="FileChooserDialogImpl" timestamp="1584865042511">
+    <state x="344" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584870129931" />
+    <state x="521" y="135" key="FileChooserDialogImpl" timestamp="1584869348161">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584809669018" />
-    <state x="521" y="135" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584865042511" />
+    <state x="521" y="135" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584869348161" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1584841233409">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584841233409" />
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1584181084111">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="309" y="105" key="Vcs.Push.Dialog.v2" timestamp="1584870150501">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584181084110" />
+    <state x="309" y="105" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584870150501" />
     <state x="382" y="138" key="git4idea.merge.GitPullDialog" timestamp="1584173778172">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
